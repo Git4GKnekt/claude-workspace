@@ -1,0 +1,19 @@
+﻿# Egna projekt (separata repos)
+SEB-PDF-Hamtare/
+gdpr-compliance/
+
+# Externa repos
+external/
+compliance-agent-builder/
+project-scaffolder/
+
+# Standard ignores
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.local
+.env
+node_modules/
+projects/*/
+!projects/.gitkeep
